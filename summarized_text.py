@@ -1,7 +1,7 @@
 """Prints first letter, amount of characters inbetween, and last letter for words of a sentence.
 
 
-Submitted by Jasmine Fan, NetID: jf4654
+Submitted by Jasmine 
 This script uses multiple assignments to summarize a word and joins it to create a summarized sentence.
 """
 while True:
