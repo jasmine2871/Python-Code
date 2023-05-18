@@ -1,7 +1,7 @@
 """Retrieves the size of a bmp image and crops the image
 
 
-Submitted by Jasmine Fan. NetID: jf4654
+Submitted by Jasmine 
 This script reads a bmp file and retrieves the size information and other
 details. It then takes the image and flips it upside down 180 degrees.
 """
