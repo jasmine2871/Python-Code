@@ -1,7 +1,7 @@
 """Generate words with lists of letters
 
 
-Submitted by Jasmine Fan, NetID:jf4654
+Submitted by Jasmine 
 Using recursive tools to generate words with lists of letters
 """
 
