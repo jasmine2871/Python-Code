@@ -1,7 +1,7 @@
 """Finding the min and max of a list
 
 
-Submitted by Jasmine Fan, NetID: jf4654
+Submitted by Jasmine 
 Using recursion to find the min and max values of a list
 """
 
